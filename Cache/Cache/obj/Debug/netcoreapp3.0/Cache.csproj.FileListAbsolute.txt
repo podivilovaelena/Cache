@@ -1,0 +1,11 @@
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\bin\Debug\netcoreapp3.0\Cache.exe
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\bin\Debug\netcoreapp3.0\Cache.deps.json
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\bin\Debug\netcoreapp3.0\Cache.runtimeconfig.json
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\bin\Debug\netcoreapp3.0\Cache.runtimeconfig.dev.json
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\bin\Debug\netcoreapp3.0\Cache.dll
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\bin\Debug\netcoreapp3.0\Cache.pdb
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\obj\Debug\netcoreapp3.0\Cache.csprojAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\obj\Debug\netcoreapp3.0\Cache.AssemblyInfoInputs.cache
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\obj\Debug\netcoreapp3.0\Cache.AssemblyInfo.cs
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\obj\Debug\netcoreapp3.0\Cache.dll
+C:\Users\Elena\Documents\Visual Studio 2019\Projects\Cache\Cache\obj\Debug\netcoreapp3.0\Cache.pdb
